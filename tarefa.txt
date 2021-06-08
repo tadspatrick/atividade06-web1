@@ -1,0 +1,4 @@
+Mostre uma frase com uma dica para a palavra sorteada
+Obs: Cadastrar as frases para cada palavra junto à ela no objeto palavras.
+Dica: Objeto, com vetor, com objeto, com strings.
+Coloque um botão Cadastrar Palavra na tela inicial, que leva o jogador a um formulário, onde ele informa a dificuldade, palavra e dica. A palavra entra para nosso dicionário no objeto palavras e pode ser sorteada no jogo.
